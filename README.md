@@ -1,1 +1,1 @@
-#Playgroung for python linter
+# Playgroung for python linter
